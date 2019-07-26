@@ -2,4 +2,5 @@ bak
 old
 log
 exclude
+.ipynb_checkpoints
 nohup*
